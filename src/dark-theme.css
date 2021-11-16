@@ -1,0 +1,6 @@
+html[data-theme="dark"] {
+  --color: rgb(250, 250, 250);
+  --background-color: rgb(5, 5, 5);
+  --card-title: rgb(5, 5, 5);
+  --card-text: rgb(5, 5, 5);
+}
